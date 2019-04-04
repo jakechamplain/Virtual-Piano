@@ -21,4 +21,4 @@ Feel free to branch and play with the code yourself. I prefer not to change anyt
 ## License
 [license for the SFML library](https://www.sfml-dev.org/license.php)
 
-license for this code base: [MIT](https://choosealicense.com/licenses/mit/)#Virtual-Piano
+license for this code base: [MIT](https://choosealicense.com/licenses/mit/)
